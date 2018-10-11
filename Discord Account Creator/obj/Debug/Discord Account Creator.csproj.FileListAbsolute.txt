@@ -1,0 +1,10 @@
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\bin\Debug\Discord Account Creator.exe.config
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\bin\Debug\Discord Account Creator.exe
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\bin\Debug\Discord Account Creator.pdb
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\obj\Debug\Discord Account Creator.csprojAssemblyReference.cache
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\obj\Debug\Discord Account Creator.csproj.CoreCompileInputs.cache
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\obj\Debug\Discord Account Creator.csproj.CopyComplete
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\obj\Debug\Discord Account Creator.exe
+C:\Users\Nividia\source\repos\Discord Account Creator\Discord Account Creator\obj\Debug\Discord Account Creator.pdb
